@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rakshiit49-k/LeetCode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/rakshiit49-k/LeetCode/tree/master/0136-single-number) |
 | [0877-stone-game](https://github.com/rakshiit49-k/LeetCode/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rakshiit49-k/LeetCode/tree/master/0001-two-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rakshiit49-k/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
