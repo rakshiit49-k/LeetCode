@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rakshiit49-k/LeetCode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/rakshiit49-k/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/rakshiit49-k/LeetCode/tree/master/0136-single-number) |
 | [0877-stone-game](https://github.com/rakshiit49-k/LeetCode/tree/master/0877-stone-game) |
 ## Math
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rakshiit49-k/LeetCode/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/rakshiit49-k/LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rakshiit49-k/LeetCode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rakshiit49-k/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
