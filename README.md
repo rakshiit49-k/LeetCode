@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rakshiit49-k/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/rakshiit49-k/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/rakshiit49-k/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/rakshiit49-k/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/rakshiit49-k/LeetCode/tree/master/0136-single-number) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/rakshiit49-k/LeetCode/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/rakshiit49-k/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
