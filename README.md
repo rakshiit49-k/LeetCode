@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rakshiit49-k/LeetCode/tree/master/0169-majority-element) |
+| [1603-design-parking-system](https://github.com/rakshiit49-k/LeetCode/tree/master/1603-design-parking-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rakshiit49-k/LeetCode/tree/master/0035-search-insert-position) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/rakshiit49-k/LeetCode/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/rakshiit49-k/LeetCode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
