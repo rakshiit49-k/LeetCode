@@ -1,8 +1,9 @@
 class ParkingSystem {
-public:
+private:
     int Big;
     int Medium;
     int Small;
+public:
     ParkingSystem(int big, int medium, int small) {
         Big=big;
         Medium=medium;
