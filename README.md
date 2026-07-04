@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rakshiit49-k/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/rakshiit49-k/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rakshiit49-k/LeetCode/tree/master/0169-majority-element) |
+| [0704-binary-search](https://github.com/rakshiit49-k/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/rakshiit49-k/LeetCode/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rakshiit49-k/LeetCode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/rakshiit49-k/LeetCode/tree/master/0704-binary-search) |
 ## Design
 |  |
 | ------- |
