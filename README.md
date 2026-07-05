@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rakshiit49-k/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/rakshiit49-k/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rakshiit49-k/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakshiit49-k/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/rakshiit49-k/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rakshiit49-k/LeetCode/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/rakshiit49-k/LeetCode/tree/master/0704-binary-search) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/rakshiit49-k/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rakshiit49-k/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakshiit49-k/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/rakshiit49-k/LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rakshiit49-k/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakshiit49-k/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
