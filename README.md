@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakshiit49-k/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/rakshiit49-k/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rakshiit49-k/LeetCode/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/rakshiit49-k/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/rakshiit49-k/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/rakshiit49-k/LeetCode/tree/master/0877-stone-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rakshiit49-k/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/rakshiit49-k/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rakshiit49-k/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
