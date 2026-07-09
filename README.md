@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rakshiit49-k/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rakshiit49-k/LeetCode/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/rakshiit49-k/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/rakshiit49-k/LeetCode/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rakshiit49-k/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -33,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rakshiit49-k/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakshiit49-k/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/rakshiit49-k/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/rakshiit49-k/LeetCode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rakshiit49-k/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/rakshiit49-k/LeetCode/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rakshiit49-k/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/rakshiit49-k/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
