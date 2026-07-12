@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rakshiit49-k/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rakshiit49-k/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/rakshiit49-k/LeetCode/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/rakshiit49-k/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rakshiit49-k/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/rakshiit49-k/LeetCode/tree/master/0877-stone-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rakshiit49-k/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/rakshiit49-k/LeetCode/tree/master/1025-divisor-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/rakshiit49-k/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
