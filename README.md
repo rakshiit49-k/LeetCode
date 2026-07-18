@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rakshiit49-k/LeetCode/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/rakshiit49-k/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/rakshiit49-k/LeetCode/tree/master/1025-divisor-game) |
+| [2413-smallest-even-multiple](https://github.com/rakshiit49-k/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rakshiit49-k/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/rakshiit49-k/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/rakshiit49-k/LeetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
